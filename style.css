@@ -24,7 +24,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Changed these to nav to clear up some of the div issues */
+/* Changed these to nav to clear up some of the div semantics */
 
 nav {
     float: right;
